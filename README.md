@@ -2,6 +2,8 @@
 
 One-click exporting of Texture resources to PNG files.
 
+https://github.com/user-attachments/assets/b300b896-2665-499f-abfe-4506746dfdd3
+
 ## Usage
 
 * Extract to `addons/texture_export`
